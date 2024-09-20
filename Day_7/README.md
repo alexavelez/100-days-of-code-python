@@ -18,8 +18,7 @@ Start the game, and a random word will be chosen.<br/>
 Guess one letter at a time by entering it into the prompt.<br/>
 For each correct guess, the letter will be revealed in the word. For each wrong guess, you'll receive a playful message and lose a chance.<br/>
 The game ends when you've either guessed the word or made too many wrong guesses.<br/>
-Enjoy playing and feel free to modify the code or add new features!<br/>
+Enjoy playing and feel free to modify the code or add new features!<br/><br/>
 
-<div align="center">
 <img width="431" alt="hangman_pic" src="https://github.com/user-attachments/assets/3f3e292c-cc71-4ca3-8a1c-8ab8e6bd3187">
-</div>
+
