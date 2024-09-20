@@ -1,5 +1,5 @@
 import random
-from hangman_art import hangman, encouraging_messages, correct_guess_messages, hangman_title
+from hangman_art import hangman, encouraging_messages, hangman_title
 
 print(hangman_title)
 
@@ -42,8 +42,8 @@ while not game_over and lives > 0:
         if guess in previous_guess:
             print(f"You've already guessed {guess}.")
             print(display)
-    #If correct
         else:
+    #Check if correct
             display = ""
             for letter in chosen_word:
                     if letter == guess:
@@ -53,8 +53,6 @@ while not game_over and lives > 0:
                          display += letter
                     else:
                          display += "_"
-
-            print(random.choice(correct_guess_messages))
             print(display)
     #If not correct
             if guess not in chosen_word:
@@ -72,3 +70,4 @@ while not game_over and lives > 0:
             if "_" not in display:
                      game_over = True
                      print("***********************You win!***********************")
+
