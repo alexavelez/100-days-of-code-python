@@ -67,24 +67,6 @@ encouraging_messages = [
     "Whoops! Think of it as a practice round!"
 ]
 
-correct_guess_messages = [
-    "Good guess!",
-    "That's correct!",
-    "Good job!",
-    "You're on fire!",
-    "Nice one!",
-    "Well done!",
-    "You nailed it!",
-    "Keep it up!",
-    "Great choice!",
-    "You're getting closer!",
-    "Fantastic guess!",
-    "Spot on!",
-    "You're crushing it!",
-    "Awesome! Keep going!",
-    "You're a hangman pro!"
-]
-
 hangman_title = """
  _                                             
 | |                                            
