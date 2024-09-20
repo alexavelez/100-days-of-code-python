@@ -1,15 +1,7 @@
 import random
-from hangman_art import hangman, encouraging_messages, correct_guess_messages
+from hangman_art import hangman, encouraging_messages, correct_guess_messages, hangman_title
 
-print("""
- _                                             
-| |                                            
-| |__   __ _ _ __   __ _ _ __ ___   __ _ _ __  
-| '_ \ / _` | '_ \ / _` | '_ ` _ \ / _` | '_ \ 
-| | | | (_| | | | | (_| | | | | | | (_| | | | |
-|_| |_|\__,_|_| |_|\__, |_| |_| |_|\__,_|_| |_|
-                    __/ |                      
-                   |___/                       """)
+print(hangman_title)
 
 #1. Creating the word directory to choose random words
 # Source: https://github.com/Tom25/Hangman/blob/master/wordlist.txt
