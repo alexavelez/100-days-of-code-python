@@ -1,4 +1,4 @@
-# Day 7 - Hangman
+# Day 7 - Hangman 🎮
 This is a Python implementation of the classic Hangman game, where the player tries to guess a hidden word by suggesting letters one at a time.
 
 ## Features:
