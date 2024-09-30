@@ -15,6 +15,8 @@ Logic: Handling both encoding and decoding while ensuring the shifts wrap around
 Control Flow: Using conditionals to distinguish between letters and non-letters, and between encoding and decoding operations.</br>
 String Manipulation: Efficiently working with and modifying strings in Python.</br>
 
-Feel free to try it out and modify the code to experiment with different ciphers!
+Feel free to try it out and modify the code to experiment with different ciphers! </br></br>
+
+<img width="554" alt="cesar_cipher" src="https://github.com/user-attachments/assets/d3d0e088-4e79-4dde-b5c0-ff3bc36bcf8d">
 
 
