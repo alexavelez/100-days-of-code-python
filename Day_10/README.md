@@ -10,4 +10,6 @@ Clear Screen:** Includes functionality to clear the screen between calculations.
 **Exit Option:** Adds a user-friendly option to exit the calculator.
 
 ##Getting Started 🚀
-This calculator can be run in any Python environment. To start the program, simply run
+This calculator can be run in any Python environment. To start the program, simply run main.py
+
+<img width="337" alt="calculator" src="https://github.com/user-attachments/assets/7416c080-b8d1-48c4-b116-8c75b589c9ce">
