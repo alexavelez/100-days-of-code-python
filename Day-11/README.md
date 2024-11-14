@@ -7,7 +7,8 @@ In this Blackjack game, the player competes against a computer dealer. The goal 
 
 ### Requirements (given by the instructor):
 
-#### Initial Deal: Both the player and computer receive two random cards.
+#### Initial Deal: 
+Both the player and computer receive two random cards.
 
 #### Blackjack Detection:
 If the computer gets a Blackjack (an Ace and a 10-value card), the player loses immediately, even if the player also has a Blackjack.
