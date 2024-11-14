@@ -5,8 +5,9 @@ This project is part of the 100 Days of Python Udemy course challenge for Day 11
 ### Game Description
 In this Blackjack game, the player competes against a computer dealer. The goal is to have a hand as close to 21 as possible without going over, with face cards (Jack, Queen, King) worth 10 points and an Ace worth either 11 or 1, depending on the player's total score.
 
-### Requirements that were given by the instructor:
-Initial Deal: Both the player and computer receive two random cards.
+### Requirements (given by the instructor):
+
+#### Initial Deal: Both the player and computer receive two random cards.
 
 #### Blackjack Detection:
 If the computer gets a Blackjack (an Ace and a 10-value card), the player loses immediately, even if the player also has a Blackjack.
