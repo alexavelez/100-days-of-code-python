@@ -15,13 +15,13 @@ If the computer gets a Blackjack (an Ace and a 10-value card), the player loses 
 If the player gets a Blackjack, they win instantly (unless the computer also has a Blackjack, in which case it's a tie).
 #### Score Calculation:
 If an Ace is drawn, it counts as 11 unless this would make the score exceed 21, in which case it counts as 1.
-##### Gameplay Flow:
+#### Gameplay Flow:
 The computer’s first card is revealed to the player.
 The game ends immediately if the player’s score goes over 21 or if either the player or the computer has a Blackjack.
 If the game continues, the player decides whether to "hit" (draw another card) or "stand" (keep their current hand).
-##### Computer’s Turn:
+#### Computer’s Turn:
 Once the player stands, the computer continues to draw cards until its score reaches 17 or higher.
-##### Game Outcome:
+#### Game Outcome:
 Scores are compared, with the closest to 21 without exceeding it winning the game. The final hands and scores of both player and computer are displayed.
 
 ### Concepts Practiced
