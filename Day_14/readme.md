@@ -6,7 +6,7 @@
 
 <br />
 <br />
-This is a Python implementation of the **Higher Lower Game**, a project from **Day 14** of the **100 Days of Python** Udemy course. In this game, the player is presented with two famous individuals or organizations and must guess who has more followers on social media. The goal is to keep guessing correctly and achieve the highest score possible.
+This is a Python implementation of the **Higher Lower Game** , a project from ** Day 14** of the **100 Days of Python** Udemy course. In this game, the player is presented with two famous individuals or organizations and must guess who has more followers on social media. The goal is to keep guessing correctly and achieve the highest score possible.
 
 ## How It Works
 - The game randomly selects two characters from a dataset.
